@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MuhammadAlshwadfy
+- 👀 I’m interested in Front End Development, Competitive Programming, and building efficient, user-friendly applications.
+- 🌱 I’m currently learning advanced TypeScript, server-side rendering with Next.js, and improving my backend skills with Prisma and MongoDB.
+- 💞️ I’m looking to collaborate on React projects, OpenAI integrations, and SaaS applications.
+- 📫 How to reach me: [mohamedalshwadfy24@gmail.com](mailto:mohamedalshwadfy24@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love problem-solving and am a big fan of optimizing APIs to improve performance by 30% or more!
